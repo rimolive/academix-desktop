@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/rmartinelli/Development/JVM/jdk1.7.0_25/jre/lib/jfxrt.jar"/>
+	<classpathentry kind="lib" path="/home/rmartinelli/JBoss/resteasy-jaxrs-3.0.5.Final/lib/resteasy-client-3.0.5.Final.jar"/>
+	<classpathentry kind="lib" path="/home/rmartinelli/JBoss/resteasy-jaxrs-3.0.5.Final/lib/jackson-annotations-2.2.1.jar"/>
+	<classpathentry kind="lib" path="/home/rmartinelli/JBoss/resteasy-jaxrs-3.0.5.Final/lib/jaxrs-api-3.0.5.Final.jar"/>
+	<classpathentry kind="lib" path="/home/rmartinelli/JBoss/resteasy-jaxrs-3.0.5.Final/lib/resteasy-jaxrs-3.0.5.Final.jar"/>
+	<classpathentry kind="lib" path="/home/rmartinelli/JBoss/resteasy-jaxrs-3.0.5.Final/lib/httpclient-4.2.1.jar"/>
+	<classpathentry kind="lib" path="/home/rmartinelli/JBoss/resteasy-jaxrs-3.0.5.Final/lib/httpcore-4.2.1.jar"/>
+	<classpathentry kind="lib" path="/home/rmartinelli/JBoss/resteasy-jaxrs-3.0.5.Final/lib/commons-io-2.1.jar"/>
+	<classpathentry kind="lib" path="/home/rmartinelli/JBoss/resteasy-jaxrs-3.0.5.Final/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
